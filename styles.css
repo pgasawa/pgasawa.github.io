@@ -18,7 +18,7 @@ body {
 }
 
 .navbar {
-  background: linear-gradient(135deg, #2291ec, #f7b140);
+  background: linear-gradient(135deg, #2b7ec2, #3f97de);
   color: #fff;
   padding: 1rem 0;
   position: sticky;
@@ -136,7 +136,7 @@ body {
 .content-section h2 {
   font-size: 1.5rem;
   margin-bottom: 1rem;
-  color: #6e8efb;
+  color: #e9940c;
 }
 
 .content-section p {
